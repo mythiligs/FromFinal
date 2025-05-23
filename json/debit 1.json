@@ -1,0 +1,12 @@
+[
+  { "CardNumber": "4604848708984076165", "CardValidFrom": "1993-08-02", "CardValidThru": "2024-03-21", "CardHolderName": "Anjali Desai", "CardHolderID": 1020, "CardCVV": "943", "CardType": "Debit" },
+  { "CardNumber": "6531953985225098", "CardValidFrom": "1973-06-27", "CardValidThru": "2024-10-20", "CardHolderName": "Richard Baker", "CardHolderID": 1019, "CardCVV": "576", "CardType": "Debit" },
+  { "CardNumber": "639029072506", "CardValidFrom": "2019-02-09", "CardValidThru": "2024-02-01", "CardHolderName": "Divya Nair", "CardHolderID": 1018, "CardCVV": "931", "CardType": "Debit" },
+  { "CardNumber": "4129188966444060", "CardValidFrom": "2022-12-24", "CardValidThru": "2025-05-21", "CardHolderName": "William Clark", "CardHolderID": 1017, "CardCVV": "3620", "CardType": "Debit" },
+  { "CardNumber": "4570869305823577", "CardValidFrom": "1971-04-21", "CardValidThru": "2025-02-13", "CardHolderName": "Pooja Mehta", "CardHolderID": 1016, "CardCVV": "197", "CardType": "Debit" },
+  { "CardNumber": "213132716644657", "CardValidFrom": "2011-06-28", "CardValidThru": "2025-10-15", "CardHolderName": "Thomas Taylor", "CardHolderID": 1015, "CardCVV": "366", "CardType": "Debit" },
+  { "CardNumber": "4097592945067827", "CardValidFrom": "1972-10-30", "CardValidThru": "2025-09-10", "CardHolderName": "Neha Joshi", "CardHolderID": 1014, "CardCVV": "187", "CardType": "Debit" },
+  { "CardNumber": "586246292641", "CardValidFrom": "2004-10-22", "CardValidThru": "2025-07-04", "CardHolderName": "James Lee", "CardHolderID": 1013, "CardCVV": "080", "CardType": "Debit" },
+  { "CardNumber": "3525911824345449", "CardValidFrom": "2005-03-18", "CardValidThru": "2025-11-19", "CardHolderName": "Meera Kapoor", "CardHolderID": 1012, "CardCVV": "280", "CardType": "Debit" },
+  { "CardNumber": "2237937825278082", "CardValidFrom": "1975-08-11", "CardValidThru": "2025-05-27", "CardHolderName": "David Wilson", "CardHolderID": 1011, "CardCVV": "959", "CardType": "Debit" }
+]

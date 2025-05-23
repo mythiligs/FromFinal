@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "682ead0b8528a6402deeed12"
+  },
+  "CardNumber": "4639683735919155",
+  "CardHolderID": 1001,
+  "CardHolderName": "John Doe",
+  "CardCVV": "803",
+  "CardType": "Credit",
+  "CardCreditLimit": 72981.5,
+  "CardAvailableBalance": 12141.34,
+  "CardValidFrom": "1995-02-03",
+  "CardValidThru": "2020-09-05",
+  "CardPaymentDueDate": "1984-04-06",
+  "CardIsActive": true,
+  "CardRewardPoint": 449
+},
+{
+  "_id": {
+    "$oid": "682ead0b8528a6402deeed13"
+  },
+  "CardNumber": "4448647530481",
+  "CardHolderID": 1002,
+  "CardHolderName": "Alice Smith",
+  "CardCVV": "677",
+  "CardType": "Credit",
+  "CardCreditLimit": 138021.26,
+  "CardAvailableBalance": 14962.7,
+  "CardValidFrom": "1999-12-13",
+  "CardValidThru": "2021-01-01",
+  "CardPaymentDueDate": "1975-10-29",
+  "CardIsActive": false,
+  "CardRewardPoint": 156
+},
+{
+  "_id": {
+    "$oid": "682ead0b8528a6402deeed14"
+  },
+  "CardNumber": "4379168602373243",
+  "CardHolderID": 1003,
+  "CardHolderName": "Raj Patel",
+  "CardCVV": "498",
+  "CardType": "Credit",
+  "CardCreditLimit": 91954.15,
+  "CardAvailableBalance": 3493.17,
+  "CardValidFrom": "2023-09-11",
+  "CardValidThru": "2021-09-17",
+  "CardPaymentDueDate": "2018-05-22",
+  "CardIsActive": true,
+  "CardRewardPoint": 658
+},
+{
+  "_id": {
+    "$oid": "682ead0b8528a6402deeed15"
+  },
+  "CardNumber": "3584430191263349",
+  "CardHolderID": 1004,
+  "CardHolderName": "Emily Chen",
+  "CardCVV": "860",
+  "CardType": "Credit",
+  "CardCreditLimit": 104627.87,
+  "CardAvailableBalance": 6065.64,
+  "CardValidFrom": "1978-04-16",
+  "CardValidThru": "2023-04-10",
+  "CardPaymentDueDate": "2013-11-27",
+  "CardIsActive": true,
+  "CardRewardPoint": 957
+},
+{
+  "_id": {
+    "$oid": "682ead0b8528a6402deeed16"
+  },
+  "CardNumber": "3538433184535746",
+  "CardHolderID": 1005,
+  "CardHolderName": "Sanjay Kumar",
+  "CardCVV": "559",
+  "CardType": "Credit",
+  "CardCreditLimit": 109320.26,
+  "CardAvailableBalance": 12806.18,
+  "CardValidFrom": "2013-03-14",
+  "CardValidThru": "2020-03-19",
+  "CardPaymentDueDate": "2025-04-04",
+  "CardIsActive": true,
+  "CardRewardPoint": 314
+},
+{
+  "_id": {
+    "$oid": "682ead0b8528a6402deeed17"
+  },
+  "CardNumber": "4237933236599279",
+  "CardHolderID": 1006,
+  "CardHolderName": "Priya Sharma",
+  "CardCVV": "957",
+  "CardType": "Credit",
+  "CardCreditLimit": 125967.9,
+  "CardAvailableBalance": 38065.03,
+  "CardValidFrom": "2001-01-02",
+  "CardValidThru": "2022-08-17",
+  "CardPaymentDueDate": "1970-11-11",
+  "CardIsActive": true,
+  "CardRewardPoint": 381
+},
+{
+  "_id": {
+    "$oid": "682ead0b8528a6402deeed18"
+  },
+  "CardNumber": "4785142963546034",
+  "CardHolderID": 1007,
+  "CardHolderName": "Michael Brown",
+  "CardCVV": "7345",
+  "CardType": "Credit",
+  "CardCreditLimit": 119720.54,
+  "CardAvailableBalance": 5701.59,
+  "CardValidFrom": "2015-09-14",
+  "CardValidThru": "2021-05-19",
+  "CardPaymentDueDate": "1990-10-01",
+  "CardIsActive": false,
+  "CardRewardPoint": 984
+},
+{
+  "_id": {
+    "$oid": "682ead0b8528a6402deeed19"
+  },
+  "CardNumber": "060425070038",
+  "CardHolderID": 1008,
+  "CardHolderName": "Ananya Gupta",
+  "CardCVV": "056",
+  "CardType": "Credit",
+  "CardCreditLimit": 128275.82,
+  "CardAvailableBalance": 23099.19,
+  "CardValidFrom": "1979-03-31",
+  "CardValidThru": "2021-11-03",
+  "CardPaymentDueDate": "2000-07-21",
+  "CardIsActive": true,
+  "CardRewardPoint": 380
+},
+{
+  "_id": {
+    "$oid": "682ead0b8528a6402deeed1a"
+  },
+  "CardNumber": "4660648870916623",
+  "CardHolderID": 1009,
+  "CardHolderName": "Robert Johnson",
+  "CardCVV": "215",
+  "CardType": "Credit",
+  "CardCreditLimit": 168156.93,
+  "CardAvailableBalance": 49650.86,
+  "CardValidFrom": "1986-02-26",
+  "CardValidThru": "2021-07-01",
+  "CardPaymentDueDate": "1986-10-18",
+  "CardIsActive": false,
+  "CardRewardPoint": 106
+},
+{
+  "_id": {
+    "$oid": "682ead0b8528a6402deeed1b"
+  },
+  "CardNumber": "4169197299045602",
+  "CardHolderID": 1010,
+  "CardHolderName": "Sneha Reddy",
+  "CardCVV": "4273",
+  "CardType": "Credit",
+  "CardCreditLimit": 147058.68,
+  "CardAvailableBalance": 48075.1,
+  "CardValidFrom": "2004-07-13",
+  "CardValidThru": "2023-01-10",
+  "CardPaymentDueDate": "1981-01-16",
+  "CardIsActive": false,
+  "CardRewardPoint": 641
+}]

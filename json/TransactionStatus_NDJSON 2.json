@@ -1,0 +1,20 @@
+{"StatusId": 4001,"Status": "Failed", "Description": "Transaction failed due to insufficient funds in the account."}
+{"StatusId": 4002,"Status": "Failed", "Description": "Transaction failed as the user's bank server is temporarily unavailable."}
+{"StatusId": 4003,"Status": "Success", "Description": "UPI transaction successful with instant payment confirmation."}
+{"StatusId": 4004,"Status": "Failed", "Description": "Payment declined because the UPI ID entered is invalid."}
+{"StatusId": 4005,"Status": "Pending", "Description": "Payment is pending because the UPI authentication timed out."}
+{"StatusId": 4006,"Status": "Failed", "Description": "Transaction failed due to a network connectivity issue."}
+{"StatusId": 4007,"Status": "Pending", "Description": "UPI transaction is pending due to a delay in bank server processing."}
+{"StatusId": 4008,"Status": "Failed", "Description": "UPI payment failed due to a timeout error from the bank."}
+{"StatusId": 4009,"Status": "Success", "Description": "Transaction successful, your UPI payment was processed without issues."}
+{"StatusId": 4010,"Status": "Pending", "Description": "Transaction is pending due to a high volume of requests at the bank."}
+{"StatusId": 4011,"Status": "Failed", "Description": "Transaction failed due to incorrect UPI PIN entered."}
+{"StatusId": 4012,"Status": "Failed", "Description": "Payment failed as the recipient's UPI ID is not registered."}
+{"StatusId": 4013,"Status": "Success", "Description": "Transaction was successful, and the confirmation has been received from your bank."}
+{"StatusId": 4014,"Status": "Failed", "Description": "Payment declined because the UPI ID entered is invalid."}
+{"StatusId": 4015,"Status": "Pending", "Description": "Payment is pending as the recipient has not accepted the request."}
+{"StatusId": 4016,"Status": "Failed", "Description": "UPI transaction failed due to a mismatch in bank details."}
+{"StatusId": 4017,"Status": "Pending", "Description": "Transaction pending because of a mismatch in transaction details."}
+{"StatusId": 4018,"Status": "Failed", "Description": "Payment failed as the bank declined the transaction for security reasons."}
+{"StatusId": 4019,"Status": "Success", "Description": "UPI payment successfully processed with no errors."}
+{"StatusId": 4020,"Status": "Pending", "Description": "Transaction is pending as the funds are being verified by the bank."}

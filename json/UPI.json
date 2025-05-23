@@ -1,0 +1,142 @@
+[
+  {
+    "AccountUPI": "john@upi",
+    "UPIEmail": "john@yahoo.com",
+    "UPITransactionLimit": 72306.21,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9876543210"
+  },
+  {
+    "AccountUPI": "alice@upi",
+    "UPIEmail": "alice@gmail.com",
+    "UPITransactionLimit": 99605.21,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9638527410"
+  },
+  {
+    "AccountUPI": "raj@upi",
+    "UPIEmail": "raj@hotmail.com",
+    "UPITransactionLimit": 90176.11,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9321546780"
+  },
+  {
+    "AccountUPI": "emily@upi",
+    "UPIEmail": "emily@outlook.com",
+    "UPITransactionLimit": 73458.34,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9456378210"
+  },
+  {
+    "AccountUPI": "sanjay@upi",
+    "UPIEmail": "sanjay@icloud.com",
+    "UPITransactionLimit": 60124.48,
+    "UPIIsActive": false,
+    "UPILinkedMobileNumber": "+91-9775643820"
+  },
+  {
+    "AccountUPI": "priya@upi",
+    "UPIEmail": "priya@zoho.com",
+    "UPITransactionLimit": 97870.55,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9934705621"
+  },
+  {
+    "AccountUPI": "michael@upi",
+    "UPIEmail": "michael@yahoo.com",
+    "UPITransactionLimit": 31919.64,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9745812369"
+  },
+  {
+    "AccountUPI": "ananya@upi",
+    "UPIEmail": "ananya@gmail.com",
+    "UPITransactionLimit": 87490.89,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9911223344"
+  },
+  {
+    "AccountUPI": "robert@upi",
+    "UPIEmail": "robert@ymail.com",
+    "UPITransactionLimit": 31118.61,
+    "UPIIsActive": false,
+    "UPILinkedMobileNumber": "+91-9864432111"
+  },
+  {
+    "AccountUPI": "sneha@upi",
+    "UPIEmail": "sneha@outlook.com",
+    "UPITransactionLimit": 74397.66,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9898989898"
+  },
+  {
+    "AccountUPI": "david@upi",
+    "UPIEmail": "david@live.com",
+    "UPITransactionLimit": 82619.05,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9812345678"
+  },
+  {
+    "AccountUPI": "meera@upi",
+    "UPIEmail": "meera@aol.com",
+    "UPITransactionLimit": 44468.05,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9908471532"
+  },
+  {
+    "AccountUPI": "james@upi",
+    "UPIEmail": "james@protonmail.com",
+    "UPITransactionLimit": 12093.33,
+    "UPIIsActive": false,
+    "UPILinkedMobileNumber": "+91-9876543120"
+  },
+  {
+    "AccountUPI": "neha@upi",
+    "UPIEmail": "neha@outlook.com",
+    "UPITransactionLimit": 71554.54,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9602024705"
+  },
+  {
+    "AccountUPI": "thomas@upi",
+    "UPIEmail": "thomas@gmail.com",
+    "UPITransactionLimit": 60697.47,
+    "UPIIsActive": false,
+    "UPILinkedMobileNumber": "+91-9445566778"
+  },
+  {
+    "AccountUPI": "pooja@upi",
+    "UPIEmail": "pooja@ymail.com",
+    "UPITransactionLimit": 77365.33,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9501023367"
+  },
+  {
+    "AccountUPI": "william@upi",
+    "UPIEmail": "william@aol.com",
+    "UPITransactionLimit": 68130.78,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9988776655"
+  },
+  {
+    "AccountUPI": "divya@upi",
+    "UPIEmail": "divya@hotmail.com",
+    "UPITransactionLimit": 41599.26,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9876543456"
+  },
+  {
+    "AccountUPI": "richard@upi",
+    "UPIEmail": "richard@protonmail.com",
+    "UPITransactionLimit": 78634.4,
+    "UPIIsActive": true,
+    "UPILinkedMobileNumber": "+91-9716324810"
+  },
+  {
+    "AccountUPI": "anjali@upi",
+    "UPIEmail": "anjali@zoho.com",
+    "UPITransactionLimit": 34167.75,
+    "UPIIsActive": false,
+    "UPILinkedMobileNumber": "+91-9988775544"
+  }
+]

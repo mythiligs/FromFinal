@@ -1,0 +1,202 @@
+[
+  {
+    "BankName": "Axis",
+    "BankIFSC": "AXIS0001234",
+    "BankMICR": "400211002",
+    "BankBranch": "Mumbai Fort",
+    "BankBranchCode": "AXF001",
+    "BankAddress": "Axis Bank, Fort, Mumbai, Maharashtra - 400001",
+    "BankContactNumber": "022-40426000",
+    "BankContactEmail": "support@axisbank.com"
+  },
+  {
+    "BankName": "Axis",
+    "BankIFSC": "AXIS0005678",
+    "BankMICR": "600211003",
+    "BankBranch": "Chennai Adyar",
+    "BankBranchCode": "AXA002",
+    "BankAddress": "Axis Bank, Adyar, Chennai, Tamil Nadu - 600020",
+    "BankContactNumber": "044-24426000",
+    "BankContactEmail": "adyar@axisbank.com"
+  },
+  {
+    "BankName": "Axis",
+    "BankIFSC": "AXIS0001122",
+    "BankMICR": "560211004",
+    "BankBranch": "Bangalore MG Road",
+    "BankBranchCode": "AXB003",
+    "BankAddress": "Axis Bank, MG Road, Bangalore, Karnataka - 560001",
+    "BankContactNumber": "080-40926000",
+    "BankContactEmail": "mgroad@axisbank.com"
+  },
+  {
+    "BankName": "Axis",
+    "BankIFSC": "AXIS0003344",
+    "BankMICR": "110211005",
+    "BankBranch": "Delhi CP",
+    "BankBranchCode": "AXD004",
+    "BankAddress": "Axis Bank, Connaught Place, Delhi - 110001",
+    "BankContactNumber": "011-23452600",
+    "BankContactEmail": "cp@axisbank.com"
+  },
+  {
+    "BankName": "Axis",
+    "BankIFSC": "AXIS0004455",
+    "BankMICR": "400211006",
+    "BankBranch": "Thane",
+    "BankBranchCode": "AXT005",
+    "BankAddress": "Axis Bank, Thane West, Maharashtra - 400604",
+    "BankContactNumber": "022-25372600",
+    "BankContactEmail": "thane@axisbank.com"
+  },
+  {
+    "BankName": "Axis",
+    "BankIFSC": "AXIS0005566",
+    "BankMICR": "600211007",
+    "BankBranch": "T Nagar",
+    "BankBranchCode": "AXT006",
+    "BankAddress": "Axis Bank, T Nagar, Chennai - 600017",
+    "BankContactNumber": "044-28142600",
+    "BankContactEmail": "tnagar@axisbank.com"
+  },
+  {
+    "BankName": "Kotak",
+    "BankIFSC": "KKBK0001234",
+    "BankMICR": "400485002",
+    "BankBranch": "Mumbai Andheri",
+    "BankBranchCode": "KKA001",
+    "BankAddress": "Kotak Bank, Andheri East, Mumbai - 400069",
+    "BankContactNumber": "022-66006022",
+    "BankContactEmail": "andheri@kotak.com"
+  },
+  {
+    "BankName": "Kotak",
+    "BankIFSC": "KKBK0005678",
+    "BankMICR": "560485003",
+    "BankBranch": "Bangalore Indiranagar",
+    "BankBranchCode": "KKB002",
+    "BankAddress": "Kotak Bank, Indiranagar, Bangalore - 560038",
+    "BankContactNumber": "080-68006022",
+    "BankContactEmail": "indiranagar@kotak.com"
+  },
+  {
+    "BankName": "Kotak",
+    "BankIFSC": "KKBK0001122",
+    "BankMICR": "110485004",
+    "BankBranch": "Delhi Rohini",
+    "BankBranchCode": "KKD003",
+    "BankAddress": "Kotak Bank, Rohini, Delhi - 110085",
+    "BankContactNumber": "011-66006022",
+    "BankContactEmail": "rohini@kotak.com"
+  },
+  {
+    "BankName": "Kotak",
+    "BankIFSC": "KKBK0003344",
+    "BankMICR": "600485005",
+    "BankBranch": "Chennai Velachery",
+    "BankBranchCode": "KKC004",
+    "BankAddress": "Kotak Bank, Velachery, Chennai - 600042",
+    "BankContactNumber": "044-68006022",
+    "BankContactEmail": "velachery@kotak.com"
+  },
+  {
+    "BankName": "Kotak",
+    "BankIFSC": "KKBK0004455",
+    "BankMICR": "500485006",
+    "BankBranch": "Hyderabad Banjara Hills",
+    "BankBranchCode": "KKH005",
+    "BankAddress": "Kotak Bank, Banjara Hills, Hyderabad - 500034",
+    "BankContactNumber": "040-66006022",
+    "BankContactEmail": "banjara@kotak.com"
+  },
+  {
+    "BankName": "Kotak",
+    "BankIFSC": "KKBK0005566",
+    "BankMICR": "400485007",
+    "BankBranch": "Thane Wagle Estate",
+    "BankBranchCode": "KKT006",
+    "BankAddress": "Kotak Bank, Wagle Estate, Thane - 400604",
+    "BankContactNumber": "022-66006023",
+    "BankContactEmail": "wagle@kotak.com"
+  },
+  {
+    "BankName": "HDFC",
+    "BankIFSC": "HDFC0001234",
+    "BankMICR": "400240002",
+    "BankBranch": "Mumbai Powai",
+    "BankBranchCode": "HDF001",
+    "BankAddress": "HDFC Bank, Powai, Mumbai - 400076",
+    "BankContactNumber": "022-61606161",
+    "BankContactEmail": "powai@hdfcbank.com"
+  },
+  {
+    "BankName": "HDFC",
+    "BankIFSC": "HDFC0005678",
+    "BankMICR": "110240003",
+    "BankBranch": "Delhi Saket",
+    "BankBranchCode": "HDF002",
+    "BankAddress": "HDFC Bank, Saket, New Delhi - 110017",
+    "BankContactNumber": "011-61606161",
+    "BankContactEmail": "saket@hdfcbank.com"
+  },
+  {
+    "BankName": "HDFC",
+    "BankIFSC": "HDFC0001122",
+    "BankMICR": "560240004",
+    "BankBranch": "Bangalore Koramangala",
+    "BankBranchCode": "HDF003",
+    "BankAddress": "HDFC Bank, Koramangala, Bangalore - 560034",
+    "BankContactNumber": "080-61606161",
+    "BankContactEmail": "koramangala@hdfcbank.com"
+  },
+  {
+    "BankName": "ICICI",
+    "BankIFSC": "ICIC0001234",
+    "BankMICR": "400229002",
+    "BankBranch": "Mumbai Ghatkopar",
+    "BankBranchCode": "ICI001",
+    "BankAddress": "ICICI Bank, Ghatkopar, Mumbai - 400086",
+    "BankContactNumber": "022-33667777",
+    "BankContactEmail": "ghatkopar@icicibank.com"
+  },
+  {
+    "BankName": "ICICI",
+    "BankIFSC": "ICIC0005678",
+    "BankMICR": "560229003",
+    "BankBranch": "Bangalore Rajajinagar",
+    "BankBranchCode": "ICI002",
+    "BankAddress": "ICICI Bank, Rajajinagar, Bangalore - 560010",
+    "BankContactNumber": "080-33667777",
+    "BankContactEmail": "rajaji@icicibank.com"
+  },
+  {
+    "BankName": "SBI",
+    "BankIFSC": "SBIN0001234",
+    "BankMICR": "400002002",
+    "BankBranch": "Mumbai Bandra",
+    "BankBranchCode": "SBI001",
+    "BankAddress": "SBI, Bandra East, Mumbai - 400051",
+    "BankContactNumber": "022-26445678",
+    "BankContactEmail": "bandra@sbi.co.in"
+  },
+  {
+    "BankName": "SBI",
+    "BankIFSC": "SBIN0005678",
+    "BankMICR": "110002003",
+    "BankBranch": "Delhi Lajpat Nagar",
+    "BankBranchCode": "SBI002",
+    "BankAddress": "SBI, Lajpat Nagar, New Delhi - 110024",
+    "BankContactNumber": "011-26445678",
+    "BankContactEmail": "lajpat@sbi.co.in"
+  },
+  {
+    "BankName": "SBI",
+    "BankIFSC": "SBIN0001122",
+    "BankMICR": "600002004",
+    "BankBranch": "Chennai Mylapore",
+    "BankBranchCode": "SBI003",
+    "BankAddress": "SBI, Mylapore, Chennai - 600004",
+    "BankContactNumber": "044-26445678",
+    "BankContactEmail": "mylapore@sbi.co.in"
+  }
+]

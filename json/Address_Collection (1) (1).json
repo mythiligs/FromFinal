@@ -1,0 +1,102 @@
+[
+  {
+    "Owner_ID": 1001,
+    "DoorNumber": "456",
+    "Street": "Oak Ave",
+    "City": "Mumbai",
+    "District": "MH",
+    "State": "Maharashtra",
+    "Pincode": "400001",
+    "Country": "India"
+  },
+  {
+    "Owner_ID": 1002,
+    "DoorNumber": "321",
+    "Street": "Elm St",
+    "City": "Chennai",
+    "District": "TN",
+    "State": "Tamil Nadu",
+    "Pincode": "600001",
+    "Country": "India"
+  },
+  {
+    "Owner_ID": 1003,
+    "DoorNumber": "555",
+    "Street": "Gandhi Rd",
+    "City": "Ahmedabad",
+    "District": "GJ",
+    "State": "Gujarat",
+    "Pincode": "380001",
+    "Country": "India"
+  },
+  {
+    "Owner_ID": 1004,
+    "DoorNumber": "333",
+    "Street": "Lakeview",
+    "City": "Kolkata",
+    "District": "WB",
+    "State": "West Bengal",
+    "Pincode": "700001",
+    "Country": "India"
+  },
+  {
+    "Owner_ID": 1005,
+    "DoorNumber": "777",
+    "Street": "Hillside",
+    "City": "Lucknow",
+    "District": "UP",
+    "State": "Uttar Pradesh",
+    "Pincode": "226001",
+    "Country": "India"
+  },
+  {
+    "Owner_ID": 1006,
+    "DoorNumber": "999",
+    "Street": "Temple Rd",
+    "City": "Varanasi",
+    "District": "UP",
+    "State": "Uttar Pradesh",
+    "Pincode": "221001",
+    "Country": "India"
+  },
+  {
+    "Owner_ID": 1007,
+    "DoorNumber": "1212",
+    "Street": "Maple St",
+    "City": "Chandigarh",
+    "District": "CH",
+    "State": "Chandigarh",
+    "Pincode": "160001",
+    "Country": "India"
+  },
+  {
+    "Owner_ID": 1008,
+    "DoorNumber": "1414",
+    "Street": "Diamond Rd",
+    "City": "Trivandrum",
+    "District": "KL",
+    "State": "Kerala",
+    "Pincode": "695001",
+    "Country": "India"
+  },
+  {
+    "Owner_ID": 1009,
+    "DoorNumber": "1616",
+    "Street": "Beach Rd",
+    "City": "Mangalore",
+    "District": "KA",
+    "State": "Karnataka",
+    "Pincode": "575001",
+    "Country": "India"
+  },
+  {
+    "Owner_ID": 1010,
+    "DoorNumber": "1818",
+    "Street": "Palm St",
+    "City": "Vijayawada",
+    "District": "AP",
+    "State": "Andhra Pradesh",
+    "Pincode": "520001",
+    "Country": "India"
+  }
+]
